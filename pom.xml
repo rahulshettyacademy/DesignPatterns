@@ -6,7 +6,7 @@
 
   <groupId>org.rahulshettyacademy</groupId>
   <artifactId>DesignPatterns</artifactId>
-  <version>1.91-SNAPSHOT</version>
+  <version>1.95-SNAPSHOT</version>
 
   <name>DesignPatterns</name>
   <!-- FIXME change it to the project's website -->
@@ -54,6 +54,7 @@
       <version>3.141.59</version>
     </dependency>
   </dependencies>
+
   <distributionManagement>
     <snapshotRepository>
       <id>snapshots</id>
